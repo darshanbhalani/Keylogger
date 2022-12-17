@@ -9,4 +9,4 @@ Note: First You already Installed Python on Your PC
 4) Paste Here
 
 When PC will Restsrt automatic "Keylogger.py" run and Keylogs will store in "Keylogs.txt"
-(Change Keylogs.txt file location according to your choise for recording logs)
+(Change "Keylogs.txt" file location in "Keylogs.py" at line-14 according to your choise for recording logs)
